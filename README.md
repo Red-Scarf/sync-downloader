@@ -2,4 +2,4 @@
 threads downloader
 
 ### TODO List
-- [] progress bar
+- [ ] progress bar
